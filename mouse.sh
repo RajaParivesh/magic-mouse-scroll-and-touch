@@ -1,4 +1,4 @@
-cd Linux-Magic-Trackpad-2-Driver/linux/drivers/hid
+cd ~/Linux-Magic-Trackpad-2-Driver/linux/drivers/hid
 make clean
 make
 sudo rmmod hid-magicmouse
